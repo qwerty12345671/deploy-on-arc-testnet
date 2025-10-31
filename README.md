@@ -41,7 +41,7 @@ Before you begin, ensure you have:
 |-------|--------|
 | Network Name | Arc Testnet |
 | RPC URL | https://rpc.testnet.arc.network |
-| Chain ID | 421907 |
+| Chain ID | 5042002  |
 | Currency Symbol | USDC |
 | Block Explorer | https://testnet.arcscan.app |
 
