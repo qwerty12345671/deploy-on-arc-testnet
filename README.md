@@ -68,29 +68,6 @@ Initialize a new Foundry project and move into the directory:
 forge init hello-arc && cd hello-arc
 ```
 
-# Deploy on Arc Testnet
-
-## 2. Set Up Your Development Environment
-
-### Install Foundry
-
-```bash
-curl -L https://foundry.paradigm.xyz | bash
-foundryup
-```
-
----
-
-## 3. Create a New Project
-
-Initialize a new Foundry project and move into the directory:
-
-```bash
-forge init hello-arc && cd hello-arc
-```
-
----
-
 ## 4. Add Environment Variables
 
 Create a `.env` file in your project root:
